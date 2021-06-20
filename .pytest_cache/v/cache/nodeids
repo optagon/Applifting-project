@@ -1,0 +1,10 @@
+[
+  "test_main.py::test_create_offer",
+  "test_main.py::test_create_product",
+  "test_main.py::test_delete_offers",
+  "test_main.py::test_delete_product",
+  "test_main.py::test_read_offers",
+  "test_main.py::test_read_product",
+  "test_main.py::test_update_offers",
+  "test_main.py::test_update_product"
+]
